@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Derkaziam Polls
 
 You can use the [editor on GitHub](https://github.com/Derkaziam/polling-aggregates/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
