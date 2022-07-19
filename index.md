@@ -8,3 +8,4 @@ I have a whole host of elections, from the UK, US, and more! Message me on Disco
 <div class="flourish-embed flourish-chart" data-src="visualisation/10672849"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### United States Generic Ballot 2022
+<div class="flourish-embed flourish-chart" data-src="visualisation/10673157"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
